@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+scikit-learn
+tensorflow  # or torch if you're using PyTorch
+joblib
