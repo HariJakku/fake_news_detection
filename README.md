@@ -52,14 +52,10 @@ The model is deployed as a **Streamlit web application** for real-time predictio
 │── README.md                # Project documentation  
 
 
----
 
-## ⚙️ Installation & Setup  
 
-### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/HariJakku/fake_news_detection.git
-cd fake_news_detection
+
+
 
 
 
