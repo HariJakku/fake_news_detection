@@ -51,6 +51,48 @@ The model is deployed as a **Streamlit web application** for real-time predictio
 │── requirements.txt         # Required dependencies  
 │── README.md                # Project documentation  
 
+## Installation Steps
+**1️⃣ Clone the Repository**
+   ```bash
+   git clone https://github.com/HariJakku/fake_news_detection.git
+   ```
+**2️⃣ Create Virtual Environment**
+   ```bash
+   python -m venv streamlit_env
+   ```
+**3️⃣ Activate the Virtual Environment**
+   ```bash
+   streamlit_env\Scripts\activate
+
+   ```
+**4️⃣ Install Required Dependencies**
+
+
+   ```bash
+  pip install -r requirements.txt
+
+   ```
+## 🚀 Running the Fake News Detection App
+
+**Run the Streamlit App**
+ ```bash
+   streamlit run app.py
+ ```
+
+## Predict Fake News
+Enter the news text in the input field.
+Click on the "Detect" button.
+The model will classify the news as Real or Fake in real time!
+
+## 📄 License
+This project is licensed under the MIT License.
+## ⭐ Show Your Support
+If you like this project, give it a star ⭐ on GitHub! 🚀
+
+
+   
+
+
 
 
 
