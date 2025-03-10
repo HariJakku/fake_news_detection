@@ -40,16 +40,13 @@ The model is deployed as a **Streamlit web application** for real-time predictio
 
 ## 📂 Project Structure  
 📂 fake_news_detection  
-│── 📂 streamlit_env/        # Virtual environmen  
-│── 📂 models/               # Store trained ML models  
-│   │── fake_news_model.pkl  # Trained model  
-│   │── vectorizer.pkl       # TF-IDF vectorizer  
-│── 📂 src/                  # Source code for training and prediction  
-│   │── train_model.py       # Model training script 
-│   │── predict.py           # Prediction script (loads model & vectorizer)  
-│── app.py                   # Streamlit web app script  
-│── requirements.txt         # Required dependencies  
-│── README.md                # Project documentation  
+│── 📂 streamlit_env/        
+│── 📂 models/              
+│   │── fake_news_model.pkl    
+│   │── vectorizer.pkl                
+│── app.py                   
+│── requirements.txt         
+│── README.md               
 
 ## Installation Steps
 **1️⃣ Clone the Repository**
