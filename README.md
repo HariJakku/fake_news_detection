@@ -40,7 +40,7 @@ The model is deployed as a **Streamlit web application** for real-time predictio
 
 ## 📂 Project Structure  
 📂 fake_news_detection  
-│── 📂 streamlit_env/        # Virtual environmen(Do not push this to GitHub)  
+│── 📂 streamlit_env/        # Virtual environmen  
 │── 📂 models/               # Store trained ML models  
 │   │── fake_news_model.pkl  # Trained model  
 │   │── vectorizer.pkl       # TF-IDF vectorizer  
